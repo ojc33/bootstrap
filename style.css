@@ -1,0 +1,12 @@
+.splitter {
+    width: 30%;
+    margin: auto;
+    margin-top: 30px;
+    border: 2px solid black;
+}
+
+.rower {
+    padding: 40px;
+    margin: auto;
+    width: 50%;
+}
